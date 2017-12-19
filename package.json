@@ -1,0 +1,24 @@
+{
+  "name": "webpack-config",
+  "version": "1.0.0",
+  "description": "This is my own repository of webpack-config.",
+  "main": "./build/webpack.base.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Calerme/webpack-config.git"
+  },
+  "keywords": [
+    "webpack",
+    "config",
+    "note"
+  ],
+  "author": "Caler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Calerme/webpack-config/issues"
+  },
+  "homepage": "https://github.com/Calerme/webpack-config"
+}
