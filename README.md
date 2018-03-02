@@ -1,8 +1,17 @@
-# webpack-config
-这是我学习 webpack 的仓库，其中的配置可以作为日常参考使用。
+# webpack-cli
 
-# 配置文件夹 `build`
+webpack 命令行工具。
 
-`webpack` 的所有配置都放在里面。
+```sh
+# 查看帮助
+webpack --help
 
-- `webpack.base.conf.js` webpack 的基础配置，其它配置都继承自这个配置文件
+# 常用的两个参数
+webpack <entry> [<entry>] -o <output>
+webpack --config webpack.config.js
+```
+
+# webpack 配置 babel-loader
+
+[babel](./babel/babel.md)
+
