@@ -18,3 +18,10 @@ webpack --config webpack.config.js
 # 配置 TypeScript
 
 [typescript](./typescript/typescript.md)
+
+# 提取公用代码 CommonsChunkPlugin
+
+* 减少代码冗余
+* 提高加载速度
+
+[webpack.optimize.CommonsChunkPlugin](./webpack.optimize/CommonsChunkPlugin.md)
