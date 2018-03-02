@@ -142,3 +142,45 @@ module.exports = function (css) {
 
 ## options
 
+* alias 解析的别名
+* importLoader
+* minimize 是否压缩
+* modules 是否启用 css Modules
+
+webpack.config.js：
+
+```js
+use: [
+    {
+        loader: 'css-loader',
+        options: {
+            minimize: true,
+            modules: true,
+            localIdentName: '[path][name]_[local]_[hash:base64:5]' // 定义 css Modules 名字格式
+        }
+    }
+]
+```
+
+## CSS Module 用法
+
+webpack.config.js
+
+```js
+use: [
+    {
+        loader: 'css-loader',
+        options: { module: true }
+    }
+]
+```
+
+app.js：
+
+```js
+import base form './src/base.css'
+
+const dom = document.getElementById('dom')
+
+dom.innerHTML = '<span class=' + base.color + '>Hello World!</span>'
+```
