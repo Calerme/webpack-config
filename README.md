@@ -11,7 +11,10 @@ webpack <entry> [<entry>] -o <output>
 webpack --config webpack.config.js
 ```
 
-# webpack 配置 babel-loader
+# 配置 babel-loader
 
 [babel](./babel/babel.md)
 
+# 配置 TypeScript
+
+[typescript](./typescript/typescript.md)
