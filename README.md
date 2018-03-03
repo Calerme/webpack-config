@@ -95,4 +95,13 @@ IE 10
 
 # Tree Shaking
 
+* JS Tree Shaking
+* CSS Tree Shaking
+
+**应用场景：**
+
+* 常规优化
+* 打包第三方库
+
+webpack 会将冗余代码标识出来，再通过插件进行删除。（webpack.optimize.uglifyJS）
 
