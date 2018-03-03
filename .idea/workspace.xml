@@ -4,7 +4,6 @@
     <list default="true" id="7b2c1a85-e3b0-4ec4-958f-fe7538cb19c7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,12 +20,107 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="381">
-                <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+              <first_editor relative-caret-position="72">
+                <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="34" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HtmlWebpackPlugin.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HtmlWebpackPlugin/HtmlWebpackPlugin.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="141">
+                <caret line="66" column="11" lean-forward="false" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+                <folding>
+                  <marker date="1520093690000" expanded="true" signature="182:517" ph="[...]" />
+                  <marker date="1520093690000" expanded="true" signature="210:514" ph="{&quot;filename&quot;: 'index.html'...}" />
+                  <marker date="1520093690000" expanded="true" signature="411:499" ph="{...}" />
+                  <marker date="1520093690000" expanded="true" signature="611:773" ph="{...}" />
+                  <marker date="1520093690000" expanded="true" signature="611:886" ph="{...}" />
+                  <marker date="1520093690000" expanded="true" signature="660:771" ph="{...}" />
+                  <marker date="1520093690000" expanded="true" signature="775:886" ph="{...}" />
+                  <marker date="1520093690000" expanded="true" signature="776:886" ph="{...}" />
+                  <marker date="1520093690000" expanded="true" signature="797:885" ph="{...}" />
+                  <marker date="1520093690000" expanded="true" signature="811:884" ph="{...}" />
+                  <marker date="1520093690000" expanded="true" signature="937:1080" ph="..." />
+                  <marker date="1520093690000" expanded="true" signature="948:1072" ph="..." />
+                  <marker date="1520093690000" expanded="true" signature="1181:1220" ph="[...]" />
+                  <marker date="1520093690000" expanded="true" signature="1181:1344" ph="[...]" />
+                  <marker date="1520093690000" expanded="true" signature="1227:1259" ph="{&quot;name&quot;: 'manifest'...}" />
+                  <marker date="1520093690000" expanded="true" signature="1299:1341" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="第三方JS库.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/文件处理/第三方JS库.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="141">
+                <caret line="60" column="3" lean-forward="true" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
+                <folding>
+                  <marker date="1520090042000" expanded="true" signature="177:239" ph="[...]" />
+                  <marker date="1520090042000" expanded="true" signature="209:236" ph="{&quot;$&quot;: 'jquery'...}" />
+                  <marker date="1520090042000" expanded="true" signature="291:380" ph="{...}" />
+                  <marker date="1520090042000" expanded="true" signature="304:378" ph="{...}" />
+                  <marker date="1520090042000" expanded="true" signature="391:453" ph="[...]" />
+                  <marker date="1520090042000" expanded="true" signature="423:450" ph="{&quot;$&quot;: 'jquery'...}" />
+                  <marker date="1520090042000" expanded="true" signature="523:748" ph="{...}" />
+                  <marker date="1520090042000" expanded="true" signature="583:746" ph="[...]" />
+                  <marker date="1520090042000" expanded="true" signature="593:740" ph="{&quot;loader&quot;: 'imports-loader'...}" />
+                  <marker date="1520090042000" expanded="true" signature="654:730" ph="{&quot;$&quot;: 'jquery'...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/css.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="86">
+                <caret line="104" column="7" lean-forward="false" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
+                <folding>
+                  <marker date="1520037450000" expanded="true" signature="89:349" ph="{...}" />
+                  <marker date="1520037450000" expanded="true" signature="102:347" ph="[...]" />
+                  <marker date="1520037450000" expanded="true" signature="112:341" ph="{...}" />
+                  <marker date="1520037450000" expanded="true" signature="159:331" ph="[...]" />
+                  <marker date="1520037450000" expanded="true" signature="177:239" ph="{&quot;loader&quot;: 'style-loader'...}" />
+                  <marker date="1520037450000" expanded="true" signature="257:317" ph="{&quot;loader&quot;: 'css-loader'...}" />
+                  <marker date="1520037450000" expanded="true" signature="1561:1834" ph="[...]" />
+                  <marker date="1520037450000" expanded="true" signature="1567:1832" ph="{...}" />
+                  <marker date="1520037450000" expanded="true" signature="1606:1826" ph="[...]" />
+                  <marker date="1520037450000" expanded="true" signature="1620:1816" ph="{&quot;loader&quot;: 'style-loader'...}" />
+                  <marker date="1520037450000" expanded="true" signature="1687:1802" ph="{&quot;insertInto&quot;: '##app'...}" />
+                  <marker date="1520037450000" expanded="true" signature="2290:2509" ph="[...]" />
+                  <marker date="1520037450000" expanded="true" signature="2296:2507" ph="{&quot;loader&quot;: 'css-loader'...}" />
+                  <marker date="1520037450000" expanded="true" signature="2345:2501" ph="{&quot;localIdentName&quot;: '[path][name]_[local]_[hash:base64:5]'...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtracTextWebpackPlugin.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/ExtracTextWebpackPlugin.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="81">
+                <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -35,6 +129,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>glob</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,9 +151,13 @@
         <option value="$PROJECT_DIR$/css/posecss.md" />
         <option value="$PROJECT_DIR$/Tree-Shaking/treeshaking.md" />
         <option value="$PROJECT_DIR$/Tree-Shaking/css-treeshaking.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/代码分割与懒加载/代码分割与懒加载.md" />
+        <option value="$PROJECT_DIR$/文件处理/图片处理.md" />
+        <option value="$PROJECT_DIR$/文件处理/字体文件.md" />
+        <option value="$PROJECT_DIR$/文件处理/第三方JS库.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/HtmlWebpackPlugin/HtmlWebpackPlugin.md" />
       </list>
     </option>
   </component>
@@ -71,9 +174,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="478" />
-    <option name="y" value="77" />
-    <option name="width" value="872" />
+    <option name="x" value="-108" />
+    <option name="y" value="162" />
+    <option name="width" value="1148" />
     <option name="height" value="586" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -101,6 +204,11 @@
               <item name="webpack_notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack_notes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="webpack_notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack_notes" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree-Shaking" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -113,6 +221,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,24 +250,26 @@
       <updated>1519962831638</updated>
       <workItem from="1519962833219" duration="17647000" />
       <workItem from="1520033678411" duration="6925000" />
-      <workItem from="1520062424035" duration="2280000" />
+      <workItem from="1520062424035" duration="7966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26852000" />
+    <option name="totallyTimeSpent" value="32538000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="478" y="77" width="872" height="586" extended-state="0" />
+    <frame x="-108" y="162" width="1148" height="586" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38895416" sideWeight="0.48863637" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2937001" sideWeight="0.48863637" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31364563" sideWeight="0.5041128" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31364563" sideWeight="0.5041128" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31364563" sideWeight="0.4958872" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31364563" sideWeight="0.4958872" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27355373" sideWeight="0.5113636" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -167,7 +278,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -280,6 +390,11 @@
             <marker date="1520037450000" expanded="true" signature="159:331" ph="[...]" />
             <marker date="1520037450000" expanded="true" signature="177:239" ph="{&quot;loader&quot;: 'style-loader'...}" />
             <marker date="1520037450000" expanded="true" signature="257:317" ph="{&quot;loader&quot;: 'css-loader'...}" />
+            <marker date="1520037450000" expanded="true" signature="1561:1834" ph="[...]" />
+            <marker date="1520037450000" expanded="true" signature="1567:1832" ph="{...}" />
+            <marker date="1520037450000" expanded="true" signature="1606:1826" ph="[...]" />
+            <marker date="1520037450000" expanded="true" signature="1620:1816" ph="{&quot;loader&quot;: 'style-loader'...}" />
+            <marker date="1520037450000" expanded="true" signature="1687:1802" ph="{&quot;insertInto&quot;: '##app'...}" />
             <marker date="1520037450000" expanded="true" signature="2290:2509" ph="[...]" />
             <marker date="1520037450000" expanded="true" signature="2296:2507" ph="{&quot;loader&quot;: 'css-loader'...}" />
             <marker date="1520037450000" expanded="true" signature="2345:2501" ph="{&quot;localIdentName&quot;: '[path][name]_[local]_[hash:base64:5]'...}" />
@@ -331,24 +446,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/ExtracTextWebpackPlugin.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/一些 loader 与 plugins 的知识.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree-Shaking/css-treeshaking.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-630">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -398,8 +499,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/postcss.md">
+    <entry file="file://$PROJECT_DIR$/文件处理/图片处理.md">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="89" column="3" lean-forward="false" selection-start-line="89" selection-start-column="3" selection-end-line="89" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件处理/字体文件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="348">
+            <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            <folding>
+              <marker date="1520088932000" expanded="true" signature="34:263" ph="{...}" />
+              <marker date="1520088932000" expanded="true" signature="82:255" ph="[...]" />
+              <marker date="1520088932000" expanded="true" signature="92:249" ph="{&quot;loader&quot;: 'url-loader'...}" />
+              <marker date="1520088932000" expanded="true" signature="149:239" ph="{&quot;name&quot;: '[name]-[hash:5].[ext]'...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="72">
+            <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="144" column="13" lean-forward="false" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="13" />
+          <folding>
+            <marker date="1520037450000" expanded="true" signature="89:349" ph="{...}" />
+            <marker date="1520037450000" expanded="true" signature="102:347" ph="[...]" />
+            <marker date="1520037450000" expanded="true" signature="112:341" ph="{...}" />
+            <marker date="1520037450000" expanded="true" signature="159:331" ph="[...]" />
+            <marker date="1520037450000" expanded="true" signature="177:239" ph="{&quot;loader&quot;: 'style-loader'...}" />
+            <marker date="1520037450000" expanded="true" signature="257:317" ph="{&quot;loader&quot;: 'css-loader'...}" />
+            <marker date="1520037450000" expanded="true" signature="1561:1834" ph="[...]" />
+            <marker date="1520037450000" expanded="true" signature="1567:1832" ph="{...}" />
+            <marker date="1520037450000" expanded="true" signature="1606:1826" ph="[...]" />
+            <marker date="1520037450000" expanded="true" signature="1620:1816" ph="{&quot;loader&quot;: 'style-loader'...}" />
+            <marker date="1520037450000" expanded="true" signature="1687:1802" ph="{&quot;insertInto&quot;: '##app'...}" />
+            <marker date="1520037450000" expanded="true" signature="2290:2509" ph="[...]" />
+            <marker date="1520037450000" expanded="true" signature="2296:2507" ph="{&quot;loader&quot;: 'css-loader'...}" />
+            <marker date="1520037450000" expanded="true" signature="2345:2501" ph="{&quot;localIdentName&quot;: '[path][name]_[local]_[hash:base64:5]'...}" />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="86">
+            <caret line="104" column="7" lean-forward="false" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
+            <folding>
+              <marker date="1520037450000" expanded="true" signature="89:349" ph="{...}" />
+              <marker date="1520037450000" expanded="true" signature="102:347" ph="[...]" />
+              <marker date="1520037450000" expanded="true" signature="112:341" ph="{...}" />
+              <marker date="1520037450000" expanded="true" signature="159:331" ph="[...]" />
+              <marker date="1520037450000" expanded="true" signature="177:239" ph="{&quot;loader&quot;: 'style-loader'...}" />
+              <marker date="1520037450000" expanded="true" signature="257:317" ph="{&quot;loader&quot;: 'css-loader'...}" />
+              <marker date="1520037450000" expanded="true" signature="1561:1834" ph="[...]" />
+              <marker date="1520037450000" expanded="true" signature="1567:1832" ph="{...}" />
+              <marker date="1520037450000" expanded="true" signature="1606:1826" ph="[...]" />
+              <marker date="1520037450000" expanded="true" signature="1620:1816" ph="{&quot;loader&quot;: 'style-loader'...}" />
+              <marker date="1520037450000" expanded="true" signature="1687:1802" ph="{&quot;insertInto&quot;: '##app'...}" />
+              <marker date="1520037450000" expanded="true" signature="2290:2509" ph="[...]" />
+              <marker date="1520037450000" expanded="true" signature="2296:2507" ph="{&quot;loader&quot;: 'css-loader'...}" />
+              <marker date="1520037450000" expanded="true" signature="2345:2501" ph="{&quot;localIdentName&quot;: '[path][name]_[local]_[hash:base64:5]'...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ExtracTextWebpackPlugin.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="81">
+            <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree-Shaking/css-treeshaking.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-630">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="27">
+            <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/postcss.md">
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="3" column="54" lean-forward="false" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
           <folding>
@@ -415,37 +638,71 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/css.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="144" column="13" lean-forward="false" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="13" />
-          <folding>
-            <marker date="1520037450000" expanded="true" signature="89:349" ph="{...}" />
-            <marker date="1520037450000" expanded="true" signature="102:347" ph="[...]" />
-            <marker date="1520037450000" expanded="true" signature="112:341" ph="{...}" />
-            <marker date="1520037450000" expanded="true" signature="159:331" ph="[...]" />
-            <marker date="1520037450000" expanded="true" signature="177:239" ph="{&quot;loader&quot;: 'style-loader'...}" />
-            <marker date="1520037450000" expanded="true" signature="257:317" ph="{&quot;loader&quot;: 'css-loader'...}" />
-            <marker date="1520037450000" expanded="true" signature="2290:2509" ph="[...]" />
-            <marker date="1520037450000" expanded="true" signature="2296:2507" ph="{&quot;loader&quot;: 'css-loader'...}" />
-            <marker date="1520037450000" expanded="true" signature="2345:2501" ph="{&quot;localIdentName&quot;: '[path][name]_[local]_[hash:base64:5]'...}" />
-          </folding>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-27">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1520041257000" expanded="true" signature="125:734" ph="[...]" />
+              <marker date="1520041257000" expanded="true" signature="131:732" ph="{...}" />
+              <marker date="1520041257000" expanded="true" signature="178:726" ph="[...]" />
+              <marker date="1520041257000" expanded="true" signature="192:246" ph="{&quot;loader&quot;: 'style-loader'...}" />
+              <marker date="1520041257000" expanded="true" signature="260:312" ph="{&quot;loader&quot;: 'css-loader'...}" />
+              <marker date="1520041257000" expanded="true" signature="326:649" ph="{&quot;loader&quot;: 'postcss-loader'...}" />
+              <marker date="1520041257000" expanded="true" signature="394:635" ph="{&quot;ident&quot;: 'postcss'...}" />
+              <marker date="1520041257000" expanded="true" signature="489:617" ph="[...]" />
+              <marker date="1520041257000" expanded="true" signature="663:716" ph="{&quot;loader&quot;: 'sass-loader'...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/文件处理/第三方JS库.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="381">
-            <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
-            <folding />
+          <first_editor relative-caret-position="141">
+            <caret line="60" column="3" lean-forward="true" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
+            <folding>
+              <marker date="1520090042000" expanded="true" signature="177:239" ph="[...]" />
+              <marker date="1520090042000" expanded="true" signature="209:236" ph="{&quot;$&quot;: 'jquery'...}" />
+              <marker date="1520090042000" expanded="true" signature="291:380" ph="{...}" />
+              <marker date="1520090042000" expanded="true" signature="304:378" ph="{...}" />
+              <marker date="1520090042000" expanded="true" signature="391:453" ph="[...]" />
+              <marker date="1520090042000" expanded="true" signature="423:450" ph="{&quot;$&quot;: 'jquery'...}" />
+              <marker date="1520090042000" expanded="true" signature="523:748" ph="{...}" />
+              <marker date="1520090042000" expanded="true" signature="583:746" ph="[...]" />
+              <marker date="1520090042000" expanded="true" signature="593:740" ph="{&quot;loader&quot;: 'imports-loader'...}" />
+              <marker date="1520090042000" expanded="true" signature="654:730" ph="{&quot;$&quot;: 'jquery'...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HtmlWebpackPlugin/HtmlWebpackPlugin.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="141">
+            <caret line="66" column="11" lean-forward="false" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+            <folding>
+              <marker date="1520093690000" expanded="true" signature="182:517" ph="[...]" />
+              <marker date="1520093690000" expanded="true" signature="210:514" ph="{&quot;filename&quot;: 'index.html'...}" />
+              <marker date="1520093690000" expanded="true" signature="411:499" ph="{...}" />
+              <marker date="1520093690000" expanded="true" signature="611:773" ph="{...}" />
+              <marker date="1520093690000" expanded="true" signature="611:886" ph="{...}" />
+              <marker date="1520093690000" expanded="true" signature="660:771" ph="{...}" />
+              <marker date="1520093690000" expanded="true" signature="775:886" ph="{...}" />
+              <marker date="1520093690000" expanded="true" signature="776:886" ph="{...}" />
+              <marker date="1520093690000" expanded="true" signature="797:885" ph="{...}" />
+              <marker date="1520093690000" expanded="true" signature="811:884" ph="{...}" />
+              <marker date="1520093690000" expanded="true" signature="937:1080" ph="..." />
+              <marker date="1520093690000" expanded="true" signature="948:1072" ph="..." />
+              <marker date="1520093690000" expanded="true" signature="1181:1220" ph="[...]" />
+              <marker date="1520093690000" expanded="true" signature="1181:1344" ph="[...]" />
+              <marker date="1520093690000" expanded="true" signature="1227:1259" ph="{&quot;name&quot;: 'manifest'...}" />
+              <marker date="1520093690000" expanded="true" signature="1299:1341" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
