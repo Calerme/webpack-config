@@ -144,7 +144,7 @@ module.exports = function (css) {
 
 * alias 解析的别名
 * importLoader
-* minimize 是否压缩
+* minimize 是否压缩（内部调用 CSSNANO 实现）
 * modules 是否启用 css Modules
 
 webpack.config.js：
