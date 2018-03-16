@@ -131,3 +131,32 @@ webpack 会将冗余代码标识出来，再通过插件进行删除。（webpac
     * minify
     * chunks
     * inject
+
+# clean-webpack-plugin
+
+每次打包时先清除指定目录。
+
+```js
+plugins: [
+    new CleanWebpackPlugin(['dist'])
+]
+```
+
+# webpack-dev-server
+
+[webpack-dev-server](./webpackDevServer)
+
+# SourceMap
+
+[SourceMap](./SourceMap/sourcemap.md)
+
+# eslint
+
+* eslint
+* eslint-loader
+* eslint-plugin-html
+* eslint-friendly-formatter
+
+# 区分开发环境和生产环境
+
+* webpack-merge
